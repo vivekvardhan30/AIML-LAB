@@ -1,6 +1,6 @@
 # AIML-LAB
 
-[lab_01_AIML](https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_01_AIML.ipynb)-Python Libraries and Packages <br>
+[lab_01(https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_01_AIML.ipynb)-Python Libraries and Packages <br>
 [lab_02](https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_02.ipynb)-Implement Breadth First,Depth First and A* Search Algorithm<br>
 [Lab_03](https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_03.ipynb)-Implement AI Game statergy<br>
 [Lab_04](https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_04.ipynb)-Implement Linear Regression Model<br>
