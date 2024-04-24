@@ -8,4 +8,5 @@
 [Lab-06](https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_06_AIML.ipynb)-Implement the K Nearest Neighbour Classification uusing Classified Manufacturing Dataset<br>
 [Lab_07](https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_07.ipynb)-Implement Support Vector Machine Classification using Breast Cancer Dataset<br>
 [Lab_08](https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_08.ipynb)-Decision trees for classification<br>
-[Lab_09](https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_09.ipynb)-Implement Random Forest Ensemble Model using Lending Data
+[Lab_09](https://github.com/vivekvardhan30/AIML-LAB/blob/main/Lab_09.ipynb)-Implement Random Forest Ensemble Model using Lending Data<br>
+[Lab-10](https://github.com/vivekvardhan30/AIML-LAB/blob/main/LAB_10.ipynb)-Implement K-Means Clustering using Synthetic Data
